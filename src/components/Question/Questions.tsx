@@ -25,11 +25,11 @@ const Questions = () => {
 
     return (
 
-        <div className="flex min-h-screen flex-col p-16 md:items-center">
+        <div className="flex min-h-screen flex-col p-16 md:items-center md:p-24">
             <Button className="mb-4" variant="primary" size="medium" onClick={find10Questions}>Random questions</Button>
             <div className="flex min-h-screen flex-col p-16">
                 {randomQuestions?.map(question =>
-                    <div key={question.id} className="mt-10">
+                    <div key={question.id} className="mt-4 md:mt-10">
                         <Heading size="large" level="1" spacing>{question.question} </Heading>
                         <Heading size="medium" level="1" spacing>Svar: {question.answer} </Heading>
                     </div>
