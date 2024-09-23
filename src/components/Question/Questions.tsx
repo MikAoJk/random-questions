@@ -25,8 +25,8 @@ const Questions = () => {
 
     return (
 
-        <div className="flex min-h-screen flex-col p-16 md:items-center">
-            <Button className="mb-4" variant="primary" size="medium" onClick={find10Questions}>Random questions</Button>
+        <div className="flex min-h-screen flex-col p-16">
+            <Button className="mb-4 md:items-center" variant="primary" size="medium" onClick={find10Questions}>Random questions</Button>
             <div className="flex min-h-screen flex-col p-16">
                 {randomQuestions?.map(question =>
                     <div key={question.id} className="mt-10">
