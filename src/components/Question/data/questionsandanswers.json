@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Hvor høyt er Eiffeltårnet i Paris?",
+    "answer": "324 meter med, og ca. 300 meter uten antennene på toppen"
+  },
+  {
+    "id": 2,
+    "question": "Omgitt av hvilket land ligger de to små spanske enklaven Melilla og Ceuta?",
+    "answer": "Marokko"
+  },
+  {
+    "id": 3,
+    "question": "Hva heter Asias største øy?",
+    "answer": "Borneo"
+  },
+  {
+    "id": 4,
+    "question": "I hvilket land ligger hovedkontoret til flyselskapet Ryanair?",
+    "answer": "Irland"
+  },
+  {
+    "id": 5,
+    "question": "I hvilken amerikansk delstat ligger Grand Canyon?",
+    "answer": "Arizona"
+  },
+  {
+    "id": 6,
+    "question": "I hvilket afrikansk land Kampala hovedstad? (Hint: Landet har ikke kystlinje)",
+    "answer": "Uganda"
+  },
+  {
+    "id": 7,
+    "question": "I hvilket hav befinner Marianergropen (verdens dypeste dyphavsgrop) seg?",
+    "answer": "Stillehavet"
+  },
+  {
+    "id": 8,
+    "question": "I hvilken by ligger Chryslerbygningen?",
+    "answer": "New York"
+  },
+  {
+    "id": 9,
+    "question": "‘Piraten’ er Danmarks lengste berg- og dalbane. I hvilken fornøyelsespark befinner denne attraksjonen seg?",
+    "answer": "Djurs Sommarland"
+  },
+  {
+    "id": 10,
+    "question": "Hvilken øy må du reise til for å besøke Ny-Ålesund?",
+    "answer": "Spitsbergen"
+  },
+  {
+    "id": 11,
+    "question": "Lenger vest enn dette kommer du ikke i kommunenorge?",
+    "answer": "Solund kommune"
+  }
+]
