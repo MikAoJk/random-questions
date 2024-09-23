@@ -53,5 +53,200 @@
     "id": 11,
     "question": "Lenger vest enn dette kommer du ikke i kommunenorge?",
     "answer": "Solund kommune"
+  },
+  {
+    "id": 12,
+    "question": "Kristiansand er den mest folkerike kommunen på Sørlandet. Hvilke kommune har nest flest innbyggere?",
+    "answer": "Arendal kommune"
+  },
+  {
+    "id": 13,
+    "question": "Hvor mange bein har en sommerfugl?",
+    "answer": "6"
+  },
+  {
+    "id": 14,
+    "question": "Fleip eller fakta? Er pandaer rendyrkede vegetarianere?",
+    "answer": "Fleip"
+  },
+  {
+    "id": 15,
+    "question": "Hvor mange fangarmer har en blekksprut?",
+    "answer": "10 eller 8"
+  },
+  {
+    "id": 16,
+    "question": "Hunnen kalles høne, men hva kalles en hann-rype?",
+    "answer": "Stegg"
+  },
+  {
+    "id": 17,
+    "question": "Hvilket er det hurtigeste landbaserte dyret på de to amerikanske kontinentene?",
+    "answer": "Prærieantilopen (også kalt gaffelbukk)"
+  },
+  {
+    "id": 18,
+    "question": "Norsk hvalfangst er omdiskutert i utlandet. Hvilken hvalart drives det mest fangst på?",
+    "answer": "Vågehval"
+  },
+  {
+    "id": 19,
+    "question": "Hvilken norsk dagligvarekjede har nesten samme navn som skurken i et knippe superheltfilmer?",
+    "answer": "Joker"
+  },
+  {
+    "id": 20,
+    "question": "Hvilken kvinnelig superhelt spilles av Gal Gadot i filmen fra 2017?",
+    "answer": "Wonder Woman"
+  },
+  {
+    "id": 21,
+    "question": "Hva heter kjæresten til (tegneseriefiguren) Skipper’n?",
+    "answer": "Olivia"
+  },
+  {
+    "id": 22,
+    "question": "Hva heter den oppdiktede nabobyen til Hollywood hvor mye av handlingen i tegneserie/spillefilmen ‘Hvem lurte Roger Rabbit’ fra 1988 finner sted?",
+    "answer": "Toontown"
+  },
+  {
+    "id": 23,
+    "question": "Hva er (det oppdiktede) hjemlandet til ‘barbaren’ Conan?",
+    "answer": "Cimmeria"
+  },
+  {
+    "id": 24,
+    "question": "Frank Castle pleier å ta loven i egne hender, hva kaller han seg da?",
+    "answer": "Punisher"
+  },
+  {
+    "id": 25,
+    "question": "Hva heter co-piloten til racerbilsjaføren Rudolf Blodstrupmoen?",
+    "answer": "Mysil Bergsprekken"
+  },
+  {
+    "id": 26,
+    "question": "I et drøyt tiår var Donald Trump programleder for en populær realityserie på amerikansk fjernsyn. Hva het denne serien?",
+    "answer": "The Apprentice"
+  },
+  {
+    "id": 27,
+    "question": "Hvilken høyrepolitiker var Norges statsminister i perioden 1981 til 1986?",
+    "answer": "Kåre Willoch"
+  },
+  {
+    "id": 28,
+    "question": "Hvilket land ble styrt av general Fulgencio Batista inntil han ble styrtet i 1959?",
+    "answer": "Cuba"
+  },
+  {
+    "id": 29,
+    "question": "Hvilke to ministerposter har Erik Solheim bekledd i løpet av sin tid som norsk politiker?",
+    "answer": "Utviklings- og miljøvernminister"
+  },
+  {
+    "id": 30,
+    "question": "Hvilket politisk parti var Olof Palme i sin tid leder for?",
+    "answer": "Socialdemokraterna"
+  },
+  {
+    "id": 31,
+    "question": "Hvem er den yngste personen som har tiltrådt som statsminister i Norge?",
+    "answer": "Jens Stoltenberg"
+  },
+  {
+    "id": 32,
+    "question": "Pensjon: Hva står forkortelsen IPS for?",
+    "answer": "Individuell Pensjonssparing"
+  },
+  {
+    "id": 33,
+    "question": "Hvem anses for å være skaperen av den digitale pengeenheten Bitcoin?",
+    "answer": "Satoshi Nakamoto"
+  },
+  {
+    "id": 34,
+    "question": "Hva heter den amerikanske (USA) sentralbanken?",
+    "answer": "Federal Reserve"
+  },
+  {
+    "id": 35,
+    "question": "Forretningsliv: Ikke like vanlig som enkeltpersonforetak og aksjeselskap, hva står forkortelsen DA for?",
+    "answer": "Delt Ansvar"
+  },
+  {
+    "id": 36,
+    "question": "Under unionstiden med Danmark, kunne man handle med bl.a. speciedaler, skilling og mark. Hva var mest verdt av en skilling og en mark?",
+    "answer": "En mark"
+  },
+  {
+    "id": 37,
+    "question": "Handelsstandens nyinnførte kjøpedager: Hva kalles mandagen som kommer etter ‘Black Friday’?",
+    "answer": "Cyber Monday"
+  },
+  {
+    "id": 38,
+    "question": "Hva med ‘Singles Day’, og fra hvilket land har denne dagen sin opprinnelse?",
+    "answer": "11. november (11.11), Kina"
+  },
+  {
+    "id": 39,
+    "question": "Hva er franskmannen Nicolas-Joseph Cugnot kjent for?",
+    "answer": "Konstruerte det første selvgående kjøretøyet (dampdrevet) "
+  },
+  {
+    "id": 40,
+    "question": "En lastebilsjåfør tar ‘kabotasjeoppdrag’. Hva betyr det?",
+    "answer": "At vedkommende kjører oppdrag innenlands i et annet land enn det landet han/hun bor i."
+  },
+  {
+    "id": 41,
+    "question": "Hva feirer amerikanerne den fjerde torsdagen i november hvert år?",
+    "answer": "Thanksgiving"
+  },
+  {
+    "id": 42,
+    "question": "Hva heter høytiden som avløser den muslimske fastemåneden Ramadan?",
+    "answer": "Id"
+  },
+  {
+    "id": 43,
+    "question": "Hva heter ‘god jul’ på spansk?",
+    "answer": "Feliz Navidad"
+  },
+  {
+    "id": 44,
+    "question": "Fra hvilken verdensdel kommer ‘couscous’ fra?",
+    "answer": "Afrika"
+  },
+  {
+    "id": 45,
+    "question": "Hva heter brandyen som lages kun i Gascogneprovinsen i Frankrike?",
+    "answer": "Armagnac"
+  },
+  {
+    "id": 46,
+    "question": "Hva er hovedingrediensen i en italiensk ‘Bruschetta’? ",
+    "answer": "Brød"
+  },
+  {
+    "id": 47,
+    "question": "Hva heter nasjonalretten i Japan?",
+    "answer": "Sukiyaki"
+  },
+  {
+    "id": 48,
+    "question": "Hvor mye blod (omtrent) har en voksent menneske i kroppen?",
+    "answer": "4 – 6 liter"
+  },
+  {
+    "id": 49,
+    "question": "Hva heter den ytterste/fremste delen av øyet?",
+    "answer": "Hornhinne"
+  },
+  {
+    "id": 50,
+    "question": "Hva forsøker man å finne ut når man måler ‘1RM’ i styrketrening?",
+    "answer": "Hvor mye man maksimalt klarer å løfte i en repetisjon av en spesifikk øvelse"
   }
 ]
