@@ -273,5 +273,29 @@
     "id": 55,
     "question": "Hvem var første norske kvinne til å bestige Mount Everest?",
     "answer": "Randi Skaug"
-  }
+  },
+     "id": 56,
+     "question": "Hvor mange aksler har en bil?",
+     "answer": "to"
+   },
+   {
+     "id": 57,
+     "question": "Hvor mange sifre er det i et standard Visa-kredittkortnummer?",
+     "answer": "16"
+   },
+   {
+     "id": 58,
+     "question": "Hvor mange øyne har en giraff?",
+     "answer": "to"
+   },
+   {
+     "id": 59,
+     "question": "Hvor mange omganger er det i en vanlig Major League Baseball-kamp?",
+     "answer": "ni"
+   },
+   {
+     "id": 60,
+     "question": "Hvor mange tangenter er det på et standard piano?",
+     "answer": "88"
+   }
 ]
