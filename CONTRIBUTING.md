@@ -10,6 +10,7 @@ To run a build simply exucute the following:
 ``` bash
 ./bun build
 ```
+for more info see the [README.md](README.md#prerequisites)
 
 ## Testing
 If you are adding a new feature or bug fix please ensure there is proper test coverage.
