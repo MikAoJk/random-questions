@@ -19,7 +19,7 @@ const Questions = () => {
 
 
     const find10Questions = async () => {
-        const questions = find10RandomQuestions()
+        const questions = find5RandomQuestions()
         setRandomQuestions(questions);
     }
 
@@ -27,11 +27,11 @@ const Questions = () => {
 
         <div className="flex min-h-screen flex-col p-16 md:items-center md:p-24">
             <Button className="mb-4" variant="primary" size="medium" onClick={find10Questions}>Random questions</Button>
-            <div className="flex min-h-screen flex-col p-16">
+            <div className="md:flex md:min-h-screen md:flex-col">
                 {randomQuestions?.map(question =>
                     <div key={question.id} className="mt-4 md:mt-10">
                         <Heading size="large" level="1" spacing>{question.question} </Heading>
-                        <Heading size="medium" level="1" spacing>Svar: {question.answer} </Heading>
+                        <Heading size="medium" style={{fontWeight: 'bold', color: "blueviolet"}} level="1" spacing>Svar: {question.answer} </Heading>
                     </div>
                 )}
             </div>
@@ -39,13 +39,12 @@ const Questions = () => {
     );
 };
 
-function find10RandomQuestions(): Question[] {
+function find5RandomQuestions(): Question[] {
     const questions: Question[] = []
 
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 5; i++) {
         const question = findUniqueRandomQuestion(questions)
         questions.push(question)
-        //console.log(`inside of logg: ${i}`)
     }
 
     return questions
