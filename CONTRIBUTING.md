@@ -4,7 +4,7 @@ Please fork the repo and start a new branch to work on.
 
 
 ## Building locally
-This project is using bun for its build tool.
+This project is using [bun](https://bun.sh/docs/installation) for its build tool.
 To run a build simply exucute the following:
 
 ``` bash
