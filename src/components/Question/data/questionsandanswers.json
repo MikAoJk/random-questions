@@ -248,5 +248,30 @@
     "id": 50,
     "question": "Hva forsøker man å finne ut når man måler ‘1RM’ i styrketrening?",
     "answer": "Hvor mye man maksimalt klarer å løfte i en repetisjon av en spesifikk øvelse"
+  },
+  {
+    "id": 51,
+    "question": "Hvilket treslag var ‘Kon-Tiki-flåten’ bygget av?",
+    "answer": "Balsatre"
+  },
+  {
+    "id": 52,
+    "question": "Hvem var den første i verden til å vinne to nobelspriser?",
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 53,
+    "question": "Hvilken profesjon hadde Gerhard Mercator (1512 – 1594)?",
+    "answer": "Kartograf"
+  },
+  {
+    "id": 54,
+    "question": "Hvem var den første i verden til å seile hele Nordvestpassasjen?",
+    "answer": "Roald Amundsen"
+  },
+  {
+    "id": 55,
+    "question": "Hvem var første norske kvinne til å bestige Mount Everest?",
+    "answer": "Randi Skaug"
   }
 ]
