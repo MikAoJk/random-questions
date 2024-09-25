@@ -398,5 +398,110 @@
     "id": 80,
     "question": "Hva er heraldikk?",
     "answer": "Læren om våpenskjold"
+  },
+  {
+    "id": 81,
+    "question": "I hvilken religion heter den hellige boken ‘Tanákh’?",
+    "answer": "Jødedommen"
+  },
+  {
+    "id": 82,
+    "question": "Hva står forkortelsen BSU for?",
+    "answer": "Boligsparing for ungdom"
+  },
+  {
+    "id": 83,
+    "question": "Hva vil det si å kommatere?",
+    "answer": "Å sette komma"
+  },
+  {
+    "id": 84,
+    "question": "Informasjonsteknologi: Hva står forkortelsen ‘CAD’ for?",
+    "answer": "Computer-aided design"
+  },
+  {
+    "id": 85,
+    "question": "Hvilken type klessplagg er en kasjett?",
+    "answer": "Et hodeplagg (sort kystlue/caps)"
+  },
+  {
+    "id": 86,
+    "question": "Hva er dendrologi læren om? ",
+    "answer": "Trærne"
+  },
+  {
+    "id": 87,
+    "question": "Hvilket lag har vunnet La Liga flest ganger (Den spanske toppserien)?",
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 88,
+    "question": "Hvem er den mestscorende spilleren på det nederlandske landslaget gjennom tidene?",
+    "answer": "Robin van Persie"
+  },
+  {
+    "id": 89,
+    "question": "For hvilken klubb spilte Diego Maradona flest kamper for i løpet av karrièren?",
+    "answer": "Italienske Napoli"
+  },
+  {
+    "id": 90,
+    "question": "Hvilken tysk tidligere landslagsspiller hadde tilnavnet ‘keiseren’?",
+    "answer": "Franz Beckenbauer"
+  },
+  {
+    "id": 91,
+    "question": "Hvem innehar scoringsrekorden for det tyske landslaget? (Flest landslagsmål)",
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 91,
+    "question": "Fra 1978 var Norge av få land i verden hvor rullebrettkjøring var forbudt. Hvilket årstall ble dette forbudet opphevet? ",
+    "answer": "1989"
+  },
+  {
+    "id": 92,
+    "question": "Hva kalles de to \"akslingene\" som de fire hjulene er festet til rullebrettet med?",
+    "answer": "Trucker"
+  },
+  {
+    "id": 93,
+    "question": "Nordmann fra Vinje, som regnes blant pionerene i internasjonal snøbrettkjøring.",
+    "answer": "Terje Håkonsen"
+  },
+  {
+    "id": 94,
+    "question": "Hva heter den tidligere tyske tennisspilleren, som er kjent under tilnavnet ‘Fraulein Forehand’?",
+    "answer": "Steffi Graf"
+  },
+  {
+    "id": 95,
+    "question": "Hva heter verdens eldste tennisturnering?",
+    "answer": "Wimbledon"
+  },
+  {
+    "id": 96,
+    "question": "Hva heter briten som vant gullmedalje menn singel under sommer-OL i Rio 2016?",
+    "answer": "Andy Murray"
+  },
+  {
+    "id": 97,
+    "question": "Tennisspiller fra Mallorca som er kjent for sin dyktighet på grusbaner. Hva heter han?",
+    "answer": "Rafael Nadal"
+  },
+  {
+    "id": 98,
+    "question": "Hva står forkortelsen ATP for?(Tennis)",
+    "answer": "Association of Tennis Professionals"
+  },
+  {
+    "id": 99,
+    "question": "Hvilken norsk skihopper har flest sammenlagtseire i Hoppuka?",
+    "answer": "Bjørn Wirkola"
+  },
+  {
+    "id": 100,
+    "question": "Hva heter hjembygda til Therese Johaug?",
+    "answer": "Dalsbygda i Os kommune"
   }
 ]
