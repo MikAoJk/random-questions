@@ -275,28 +275,128 @@
     "answer": "Randi Skaug"
   },
   {
-     "id": 56,
-     "question": "Hvor mange aksler har en bil?",
-     "answer": "to"
-   },
-   {
-     "id": 57,
-     "question": "Hvor mange sifre er det i et standard Visa-kredittkortnummer?",
-     "answer": "16"
-   },
-   {
-     "id": 58,
-     "question": "Hvor mange øyne har en giraff?",
-     "answer": "to"
-   },
-   {
-     "id": 59,
-     "question": "Hvor mange omganger er det i en vanlig Major League Baseball-kamp?",
-     "answer": "ni"
-   },
-   {
-     "id": 60,
-     "question": "Hvor mange tangenter er det på et standard piano?",
-     "answer": "88"
-   }
+    "id": 56,
+    "question": "Hvor mange aksler har en bil?",
+    "answer": "to"
+  },
+  {
+    "id": 57,
+    "question": "Hvor mange sifre er det i et standard Visa-kredittkortnummer?",
+    "answer": "16"
+  },
+  {
+    "id": 58,
+    "question": "Hvor mange øyne har en giraff?",
+    "answer": "to"
+  },
+  {
+    "id": 59,
+    "question": "Hvor mange omganger er det i en vanlig Major League Baseball-kamp?",
+    "answer": "ni"
+  },
+  {
+    "id": 60,
+    "question": "Hvor mange tangenter er det på et standard piano?",
+    "answer": "88"
+  },
+  {
+    "id": 61,
+    "question": "Hva er artisten Kygo’s egentlige navn?",
+    "answer": "Kyrre Gørvell-Dahll"
+  },
+  {
+    "id": 62,
+    "question": "Svenske Rolf Magnus Joakim Larsson er best kjent under artistnavnet.",
+    "answer": "Joey Tempest"
+  },
+  {
+    "id": 63,
+    "question": "Hva het hitlåten som på kort tid gjorde Britney Spears verdenskjent i 1999?",
+    "answer": ".Baby One More Time"
+  },
+  {
+    "id": 64,
+    "question": "Hva het debutalbumet (som bl.a. inneholdt megahiten ‘Ring Meg’) til den norske artisten Gabrielle?",
+    "answer": "Mildt sagt"
+  },
+  {
+    "id": 65,
+    "question": "Hva er ‘diatonisk’ og ‘heksaton’ eksempler på?",
+    "answer": "Musikkskalaer"
+  },
+  {
+    "id": 66,
+    "question": "Hva heter trommeslageren i The Rolling Stones?",
+    "answer": "Charlie Watts"
+  },
+  {
+    "id": 67,
+    "question": "Hvilken artist har bl.a. gitt ut albumene ‘Joanne’, ‘Cheek to Cheek’ og ‘ARTPOP’?",
+    "answer": "Lady Gaga"
+  },
+  {
+    "id": 68,
+    "question": "Hva heter organisasjonen som forvalter rettighetene til musikere når materialet deres spilles i Norge?",
+    "answer": "TONO"
+  },
+  {
+    "id": 69,
+    "question": "Hva kalles det gitarlignende (som er mindre i størrelse) 4-strengers instrumentet som opprinnelig kommer fra Madeira?",
+    "answer": "Ukulele"
+  },
+  {
+    "id": 70,
+    "question": "Et bilde av Mark Knopflers resonatorgitar pryder hele forsiden på platecoveret til hvilket Dire Straits-album?",
+    "answer": "Brothers in Arms"
+  },
+  {
+    "id": 71,
+    "question": "Kan du beskrive hva en ‘Skalmeie’ er?",
+    "answer": "Et blåseinstrument av tre"
+  },
+  {
+    "id": 72,
+    "question": "Hvor mange strenger har en bratsj?",
+    "answer": "Fire"
+  },
+  {
+    "id": 73,
+    "question": "Hva kalles den lille plastgjenstanden som gitarister (som ikke spiller fingerspill) holder mellom peke- og tommelfinger for å lage lyd?",
+    "answer": "Et plekter"
+  },
+  {
+    "id": 74,
+    "question": "Hva veier mest av en liter gull og en liter sølv?",
+    "answer": "Gull"
+  },
+  {
+    "id": 75,
+    "question": "Hvor mange centimeter er en fot?",
+    "answer": "30,48 cm"
+  },
+  {
+    "id": 76,
+    "question": "Hva heter etaten som har ansvar for kontroll og fastsetting av måleenheter i Norge?",
+    "answer": "Justervesenet"
+  },
+  {
+    "id": 77,
+    "question": "Hvor mange meter er en nautisk mil?",
+    "answer": "1852 meter"
+  },
+  {
+    "id": 78,
+    "question": "Fleip eller fakta? Er en sjømil og en nautisk mil det samme?",
+    "answer": "Fleip"
+  },
+  {
+    "id": 79,
+    "question": "De fleste sender en eller flere SMSer via mobiltelefonen sin hver eneste dag. Men hva står egentlig forkortelsen SMS for?",
+    "answer": "Short Message Service"
+  },
+  {
+    "id": 80,
+    "question": "Hva er heraldikk?",
+    "answer": "Læren om våpenskjold"
+  }
 ]
