@@ -503,5 +503,30 @@
     "id": 100,
     "question": "Hva heter hjembygda til Therese Johaug?",
     "answer": "Dalsbygda i Os kommune"
+  } 
+  {
+    "id": 101,
+    "question": "Hva heter den første kvinnen som ble statsminister i Norge?",
+    "answer": "Gro Harlem Brundtland"
+  },
+  {
+    "id": 102,
+    "question": "Hva heter de tre barna til Kronprins Haakon og Kronprinsesse Mette-Marit?",
+    "answer": "Marius, Ingrid Alexandra, and Sverre Magnus"
+  },
+  {
+    "id": 103,
+    "question": "I hvilket år ble den første Harry Potter-boken utgitt?",
+    "answer": "1997"
+  },
+  {
+    "id": 104,
+    "question": "Hva er hovedstaden i Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "id": 105,
+    "question": "Hvem malte Mona Lisa?",
+    "answer": "Leonardo da Vinci"
   }
 ]
